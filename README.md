@@ -1,22 +1,22 @@
+# ATIVIDADE-10-DESCOMPLICA
 <!DOCTYPE html>
 
-<html lang="pt-br">
+<html lang=“pt-br”>
 
 <head>
 
-    <title>Página sobre Cães</title>
+<title>Página sobre Cães</title>
 
-    <meta charset="utf-8">
+<meta charset=“utf-8”>
 
 </head>
 
 <body>
 
-    <h1>Perfil #catsoninstagram</h1>
+<h1>Perfil #catsoninstagram</h1>
+<figure>
+<img src=images/nome_da_sua_imagem.jpg />
 
-    <figure>
-        <img src="images/nome_da_sua_imagem.jpg" alt="Descrição da imagem">
-    </figure>
 
 </body>
 
