@@ -4,8 +4,8 @@
 <html lang=“pt-br”>
 
 <head>
+<h1>Perfil Pagina sobre Cães </h1>
 
-<title>Página sobre Cães</title>
     <meta charset="utf-8">
 
 </head>
