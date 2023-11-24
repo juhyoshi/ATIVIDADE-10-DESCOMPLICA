@@ -13,8 +13,8 @@
 <body>
 
 <h1>Perfil #catsoninstagram</h1>
-
-<img src=“images/nome_da_sua_imagem.jpg” />
+<figure>
+<img src=“nome_da_sua_imagem.jpg” />
 
 </body>
 
