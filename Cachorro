@@ -1,14 +1,8 @@
-<html lang="pt-br">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Página sobre Cães</title>
+<title>Aula Descomplica - Git</title>
+<meta charset="utf-8">
 </head>
 <body>
-    <h1>Bem-vindo à Página sobre Cães</h1>
-    
-    <img src="cachorro.jpg" alt="Imagem de um cão">
-
-    <p>Esta página contém informações interessantes sobre cães. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at rhoncus nunc. Proin ac neque eu leo pellentesque fringilla. Quisque eu arcu sit amet sem congue auctor. Nullam nec ex vel justo tincidunt tincidunt ac eu sapien.</p>
+<h1>Primeiro commit da aula descomplica git</h1>
 </body>
 </html>
