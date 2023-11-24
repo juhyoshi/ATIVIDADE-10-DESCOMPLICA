@@ -5,7 +5,7 @@
 
 <head>
 
-<title> Fanpage de Gatinhos</title>
+<title>Página sobre Cães</title>
 
 <meta charset=“utf-8”>
 
