@@ -6,7 +6,6 @@
 <head>
 <h1>Perfil Pagina sobre Cães </h1>
 
-    <meta charset="utf-8">
 
 </head>
 
