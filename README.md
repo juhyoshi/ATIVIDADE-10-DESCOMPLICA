@@ -15,7 +15,7 @@
 
 <h1>Perfil #catsoninstagram</h1>
 <figure>
-<img src=“nome_da_sua_imagem.jpg” />
+<img src="images/nome_da_sua_imagem.jpg”/>
 
 </body>
 
